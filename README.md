@@ -13,4 +13,4 @@ class sadekselmi:
 
 
 me = sadekselmi()
-me.say_hi()
+me.say_hi().
