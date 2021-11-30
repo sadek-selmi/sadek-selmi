@@ -1,4 +1,4 @@
-### Hi there 👋
+#!/usr/bin/python
 
 class sadekselmi:
 
