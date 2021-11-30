@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**sadek-selmi/sadek-selmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class sadekselmi:
 
-Here are some ideas to get you started:
+    def __init__(self):
+        self.name = "Sadek Selmi"
+        self.researcher = True
+        self.developer = True
+        self.languages = ["en_US", "es_FR"]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def say_hi(self):
+        print("I'm glad you read my intro! Please also visit my website sadekselmi.me")
+
+
+me = sadekselmi()
+me.say_hi()
